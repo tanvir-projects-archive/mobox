@@ -23,16 +23,19 @@ English
 # Installation
 1. Install
 [Termux](https://f-droid.org/repo/com.termux_118.apk),
-[Termux-X11](https://raw.githubusercontent.com/olegos2/mobox/main/components/termux-x11.apk) and
-[Input Bridge](https://raw.githubusercontent.com/olegos2/mobox/main/components/inputbridge.apk).
+[Termux-X11](https://raw.githubusercontent.com/tanvirr007/mobox/main/components/termux-x11.apk) and
+[Input Bridge](https://raw.githubusercontent.com/tanvirr007/mobox/main/components/inputbridge.apk).
 
 2. Open termux and paste command
 
 ```bash
-curl -s -o ~/x https://raw.githubusercontent.com/olegos2/mobox/main/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/tanvirr007/mobox/main/install && . ~/x
 ```
 
-3. Type `mobox` in termux.
+3. Type `mobox` in termux
+```bash
+mobox
+```
 
 # Configuration
 ## Wine
